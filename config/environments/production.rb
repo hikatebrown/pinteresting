@@ -79,7 +79,7 @@ Rails.application.configure do
   # Required for Heroku
   # Note to set this to actual host
     config.action_mailer.default_url_options = { host: 'https://omr-pinteresting-kate.herokuapp.com/' }
-  end  
+ end
 
   # Use a different logger for distributed setups.
   # require 'syslog/logger'
